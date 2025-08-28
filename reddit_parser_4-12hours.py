@@ -27,7 +27,7 @@ reddit_clients = [
 
 # --- DB ---
 user = "postgres"
-password = "di563066"
+password = ""
 host = "localhost"
 port = 5432
 database = "reddit_parser_4-12hours"
@@ -202,3 +202,4 @@ async def main():
 if __name__ == "__main__":
     asyncio.run(main())
     print("\n✅ Данные за последние 12→4 часов сохранены")
+
