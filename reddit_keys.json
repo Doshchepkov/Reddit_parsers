@@ -1,0 +1,27 @@
+[
+  {
+    "client_id": "Qk4L_uv-6ILK2V6Dpjxk3w",
+    "client_secret": "oDrQ_JT8ExjDw4V3YXrv19KDqwVYNA",
+    "user_agent": "parser-v1"
+  },
+  {
+    "client_id": "NqPHu-_o7BGm_ygyri_bvw",
+    "client_secret": "LivO4B5rET8-_nZjwd5Z4e4er2qAcg",
+    "user_agent": "parser-v2"
+  },
+  {
+    "client_id": "WIWc2Osfoc0pX7SFKME8bQ",
+    "client_secret": "G_Uvz8yi6ifK7mhque24QKtcfPmZiA",
+    "user_agent": "parser-v3"
+  },
+  {
+    "client_id": "5iqYhNlUmPDgFZJAAy9YQw",
+    "client_secret": "jewXhkrtu_p6iw8QDytarEMjiVGorQ",
+    "user_agent": "parser-v4"
+  },
+  {
+    "client_id": "ybilrrDrXQNPxg2ZRh1cuQ",
+    "client_secret": "91JFMbsleGWSqb6-IKJx2L_gTKcaCQ",
+    "user_agent": "parser-v5"
+  }
+]
